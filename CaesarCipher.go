@@ -1,7 +1,3 @@
-//Theeban Kumaresan
-//300062377
-//CSI2120
-
 package main
 
 import (
